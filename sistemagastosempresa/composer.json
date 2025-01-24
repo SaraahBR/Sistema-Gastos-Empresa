@@ -1,0 +1,17 @@
+{
+    "name": "viher/sistemagastosempresa",
+    "description": "Projeto de sistema de gastos da empresa em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sarah"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
